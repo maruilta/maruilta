@@ -13,10 +13,10 @@
  :pushpin: FIGMA
  :pushpin: ADOBE
 
-### Also, I do crochet amigurumis for young humans :baby: :two_hearts:
-### I love :books:, :fishing_pole_and_fish:, :coffee:, :chocolate_bar: and :icecream:
+#### Also, I do crochet amigurumis for young humans :baby: :two_hearts:
+#### I love :books:, :fishing_pole_and_fish:, :coffee:, :chocolate_bar: and :icecream:
 
-### :sparkles: Lets be Social Media friends! 
+#### :sparkles: Lets be Social Media friends! 
 ##### :school_satchel: LinkedIn: https://www.linkedin.com/in/marinacaviola/
 ##### :camera: Instagram: https://www.instagram.com/maruilta
 
