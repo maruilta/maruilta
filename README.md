@@ -1,6 +1,6 @@
-# Hi there 👋 I’m  Maru! :sparkles:
-## I´m a Junior Front End Developer with a geological heart :earth_americas:
-## currently learning React :computer: and Python :snake: !
+## Hi there 👋 I’m  Maru! :sparkles:
+### I´m a Junior Front End Developer with a geological heart! :earth_americas:
+### :point_right: Currently learning React :computer: and Python :snake: !
 
 
 
