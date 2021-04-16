@@ -1,4 +1,4 @@
-![header](/images/logo.png)
+![header](/maruilta/master/header_tech_pink.png)
 
 ## Hi there 👋 I’m  Maru! :sparkles:
 #### I´m a Junior Front End Developer with a geological heart :earth_americas: based in Argentina. 🇦🇷
