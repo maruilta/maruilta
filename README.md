@@ -4,14 +4,14 @@
 #### I´m a Junior Front End Developer with a geological heart :earth_americas: based in Argentina. 🇦🇷
 #### :point_right: Currently learning React :computer: and Python :snake: !
 
-#### I have been learning how to use different tools like:
-:pushpin: HTML
-:pushpin: CSS
-:pushpin: JAVASCRIPT
-:pushpin: WORDPRESS
-:pushpin: UX FUNDAMENTALS
-:pushpin: FIGMA
-:pushpin: ADOBE
+#### I have been learning about:
+ :pushpin: HTML 
+ :pushpin: CSS
+ :pushpin: JAVASCRIPT
+ :pushpin: WORDPRESS
+ :pushpin: UX FUNDAMENTALS
+ :pushpin: FIGMA
+ :pushpin: ADOBE
 
 ### Also, I do crochet amigurumis for young humans :baby: :two_hearts:
 ### I love :books:, :fishing_pole_and_fish:, :coffee:, :chocolate_bar: and :icecream:
