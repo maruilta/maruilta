@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I’m  Maru! :sparkles:
 #### I´m a Junior Front End Developer with a geological heart :earth_americas: based in Argentina. 🇦🇷
-#### :point_right: Currently working as a Test Automation Engineer and learning React :computer: and JAVA!
+#### :point_right: Currently working as a Test Automation Engineer and learning JAVA!
 
 #### I´ve been learning about:
  :pushpin: HTML 
@@ -13,6 +13,10 @@
  :pushpin: FIGMA
  :pushpin: ADOBE
  :pushpin: JAVA
+ :pushpin: SELENIUM
+ :pushpin: APPIUM 
+ :pushpin: MAVEN
+ 
 
 #### When I have some free time, I do crochet amigurumis for young humans :baby: :two_hearts:
 #### I love :books:, :fishing_pole_and_fish:, :coffee:, :chocolate_bar: and :icecream:
