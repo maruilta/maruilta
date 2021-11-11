@@ -2,14 +2,14 @@
 
 ## Hi there 👋 I’m  Maru! :sparkles:
 #### I´m a Junior Front End Developer with a geological heart :earth_americas: based in Argentina. 🇦🇷
-#### :point_right: Currently working as a Test Automation Engineer and learning JAVA!
+#### :point_right: Currently working as Developer in a great team!
 
 #### I´ve been learning about:
  :pushpin: HTML 
  :pushpin: CSS
  :pushpin: JAVASCRIPT
- :pushpin: WORDPRESS
  :pushpin: UX/UI FUNDAMENTALS
+ :pushpin: DESING THINKING
  :pushpin: FIGMA
  :pushpin: ADOBE
  :pushpin: JAVA
