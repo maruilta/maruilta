@@ -11,7 +11,6 @@
  :pushpin: UX/UI FUNDAMENTALS
  :pushpin: DESING THINKING
  :pushpin: FIGMA
- :pushpin: ADOBE
  :pushpin: JAVA
  :pushpin: SELENIUM
  :pushpin: APPIUM 
