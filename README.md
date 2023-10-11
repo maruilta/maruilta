@@ -21,7 +21,7 @@
  
 
 #### When I have some free time, I do crochet amigurumis for young humans :baby: :two_hearts:
-#### I love :books:, :coffee:, :chocolate_bar: and :icecream:
+#### I love 🐈, :books:, :coffee:, :chocolate_bar: and :icecream:
 
 #### :sparkles: Let's be Social Media friends! 
 ##### :school_satchel: LinkedIn: https://www.linkedin.com/in/marinacaviola/
